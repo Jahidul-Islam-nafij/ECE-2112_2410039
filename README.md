@@ -44,8 +44,8 @@ _**Heaven’s Light is Our Guide**_
   
 ## INDEX:
 
-| Lab No. | Title | Link | codeforce |
-| :---: | :---: | :---: | :---: |
+| Lab No. | Title | Link  |
+| :---: | :---: | :---:  |
 | 01 | half adder and full adder  | [Lab 01](https://github.com/Jahidul-Islam-nafij/ECE-1104_2410039/blob/2bfaeb3290d3b77be0a112b1faddec831eb65e10/LabReport/Lab-1.md)|
 
 
