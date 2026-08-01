@@ -1,58 +1,52 @@
-# ECE-2410039-DT-2112
+## ECE-2112_2410039_Lab Reports
+<div align="center">
+  
+_**Heaven’s Light is Our Guide**_
+</div>
 
-# Digital Arithmetic Circuit Project
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/18531be8-2a84-4bea-9027-5f1c40549dfa" alt="RUET Logo" style="width:150px;height:170px;">
+</p>
 
-## Overview
+<div align="center">
+  
+  ## **Rajshahi University of Engineering and Technology** <br> 
+  ### **Department of Electrical & Computer Engineering**
+  ### **Lab Reports**<br>
+  **Course Name:** Computer Programming sessional<br>
+  **Course Code:** ECE 2112
+</div>
+<br>
+<div align="center">
 
-This project is a digital logic circuit designed using **Logisim-evolution v4.0.0**.  
-The circuit demonstrates the implementation of arithmetic operations using basic logic gates, adders, converters, and display components.
+---  
+##  Submitted to: 
 
-## Software Used
+### **Mst. Mazeda Noor Tasnim**
+#### Department of Electrical and Computer Engineering
+#### Rajshahi University of Engineering and Technology
+#### Rajshahi - 6204
 
-- **Logisim-evolution v4.0.0**
-- XML-based `.circ` circuit file format
+---
 
-## Features
+## Submitted by:
+### **Md Jahidul Islam Nafij**
+#### Roll No: 2410039
+#### Registration No: 1092
+#### Department of Electrical and Computer Engineering
+#### Rajshahi University of Engineering and Technology
+#### Rajshahi - 6204
 
-- Full Adder implementation
-- Multi-bit binary addition
-- XOR, AND, OR, NAND, and NOR gate usage
-- Binary to BCD conversion
-- BCD to 7-Segment display conversion
-- LED output indicators
-- Digital circuit simulation
+---
+</div>
+<div align="center"> 
 
-## Components Used
+  
+## INDEX:
 
-### Logic Gates
-- AND Gate
-- OR Gate
-- XOR Gate
-- NAND Gate
-- NOR Gate
+| Lab No. | Title | Link | codeforce |
+| :---: | :---: | :---: | :---: |
+| 01 | half adder and full adder  | [Lab 01](https://github.com/Jahidul-Islam-nafij/ECE-1104_2410039/blob/2bfaeb3290d3b77be0a112b1faddec831eb65e10/LabReport/Lab-1.md)|
 
-### Arithmetic Components
-- Full Adder
-- Multi-bit Adder
 
-### Input/Output Components
-- Input Pins
-- Output Pins
-- LEDs
-- 7-Segment Displays
-
-### Conversion Components
-- Binary to BCD Converter
-- BCD to 7-Segment Decoder
-
-## Circuit Description
-
-The circuit takes binary inputs and processes them through arithmetic logic blocks.  
-Full adders are used to perform binary addition by generating:
-
-- Sum output
-- Carry output
-
-The generated binary result is converted into BCD format and displayed using 7-segment displays. LEDs are also used to indicate different output states.
-
-## Project Structure
+</div>
