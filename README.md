@@ -47,6 +47,6 @@ _**Heaven’s Light is Our Guide**_
 | Lab No. | Title | Link  |
 | :---: | :---: | :---:  |
 | 01 | half adder and full adder  | [Lab 01](https://github.com/Jahidul-Islam-nafij/ECE-2112_2410039/blob/aa02ec56a0e50ac6f23ec3d67a67ac94b16fefad/lab%20reports/lab1_report.pdf)|
-| 02 | Logisim ckt diagram simulation  | [Lab 02](https://github.com/Jahidul-Islam-nafij/ECE-2112_2410039/blob/d08e34fc5219980df2adb07a8c55c0f38d9a1aa3/lab%20reports/lab2.pdf)||[diagram](https://github.com/Jahidul-Islam-nafij/ECE-2112_2410039/blob/021505ffa56f4b72740574f14de9ce26dfd8dd45/lab%20reports/lab2.circ)|
+| 02 | Logisim ckt diagram simulation  | [Lab 02](https://github.com/Jahidul-Islam-nafij/ECE-2112_2410039/blob/d08e34fc5219980df2adb07a8c55c0f38d9a1aa3/lab%20reports/lab2.pdf)|[diagram](https://github.com/Jahidul-Islam-nafij/ECE-2112_2410039/blob/021505ffa56f4b72740574f14de9ce26dfd8dd45/lab%20reports/lab2.circ)|
 
 </div>
